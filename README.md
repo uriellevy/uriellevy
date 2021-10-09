@@ -28,7 +28,7 @@ const uriellevy = {
   FrontEnd: ["Javascript", "React JS", "HTML", "CSS"],
   BackEnd: "Node.js",
   DBs: ["MongoDB", "SQL"],
-  tools: ["React", "Redux", "Git", "Sass"],
+  tools: ["React JS", "Redux", "Git", "Sass"],
 };
 ```
 
