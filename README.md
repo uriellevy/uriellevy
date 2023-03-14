@@ -25,10 +25,10 @@ I am a passionate and enthusiastic self-taught web developer.
 ```javascript
 const uriellevy = {
   education: "B.sc-Ariel University",
-  FrontEnd: ["Javascript", "React JS", "HTML", "CSS"],
+  FrontEnd: ["Javascript","Typescript", "React JS", "HTML", "CSS"],
   BackEnd: "Node.js",
   DBs: ["MongoDB", "SQL"],
-  tools: ["React JS", "Redux", "Git", "Sass"],
+  tools: ["React JS","Typescript", "Redux", "Git", "Sass"],
 };
 ```
 
